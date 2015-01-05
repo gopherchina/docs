@@ -1,0 +1,8 @@
+*.swp
+*~
+.DS_Store
+*.tmp
+*.tmp
+*.pprof
+*.pdf
+
