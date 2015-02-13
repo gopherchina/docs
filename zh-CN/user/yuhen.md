@@ -1,6 +1,6 @@
 # 雨痕 #
 
-![](../images/yuheng.jpg)
+![](../images/yuhen.jpg)
 雨痕
 
 ### 自我介绍
