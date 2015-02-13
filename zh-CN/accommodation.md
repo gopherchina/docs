@@ -10,4 +10,6 @@
 
 ### 美食
 
+- [点评](http://www.dianping.com/search/keyword/1/0_%E5%BC%A0%E6%B1%9F%E5%9C%B0%E9%93%81%E7%AB%99)
 
+中餐我们会给大家提供披萨
