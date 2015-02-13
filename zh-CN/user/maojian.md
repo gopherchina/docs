@@ -1,6 +1,6 @@
 # 毛剑 #
 
-![](../images/maojian.png)
+![](../images/maojian.jpg)
 毛剑
 猎豹移动
 
