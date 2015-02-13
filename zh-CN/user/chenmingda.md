@@ -1,6 +1,6 @@
 # 陈明达 #
 
-![](/static/img/chenmingda.png)
+![](../images/chenmingda.png)
 陈明达
 厦门真有趣信息科技有限公司
 

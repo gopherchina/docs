@@ -1,6 +1,6 @@
 # 李四保 #
 
-![](/static/img/lisibao.jpg)
+![](../images/lisibao.jpg)
 李四保
 杭州佑软科技
 

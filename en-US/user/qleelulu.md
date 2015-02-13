@@ -1,6 +1,6 @@
 # QLeelulu #
 
-![](/static/img/qleelulu.jpg)
+![](../images/qleelulu.jpg)
 QLeelulu
 广州舜飞
 

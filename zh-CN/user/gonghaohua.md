@@ -1,6 +1,6 @@
 # 龚浩华 #
 
-![](/static/img/gonghaohua.jpg)
+![](../images/gonghaohua.jpg)
 龚浩华 
 网宿科技
 

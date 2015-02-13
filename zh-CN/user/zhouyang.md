@@ -1,6 +1,6 @@
 # 周洋 #
 
-![](/static/img/zhouyang.jpg)
+![](../images/zhouyang.jpg)
 周洋
 奇虎360
 

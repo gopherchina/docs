@@ -1,6 +1,6 @@
 # 刘奇 #
 
-![](/static/img/liuqi.png)
+![](../images/liuqi.png)
 刘奇
 豌豆荚
 
