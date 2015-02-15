@@ -1,6 +1,6 @@
 # 汪洋 #
 
-![](../images/go.jpg)
+![](../images/wangyang.jpg)
 汪洋
 华为
 
