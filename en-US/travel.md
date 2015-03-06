@@ -1,33 +1,39 @@
-# 参会路线 #
+# Directions #
 
-## 会议地址：上海市浦东新区博云路2号 浦软大厦二层大会议厅
+## Conference Address: Meeting Hall, Puruan building 2nd floor, 2 Boyun Rd, Pudong, Shanghai
 
-### 人民广场 
-	距离会议厅约14.6公里
-	乘坐地铁2号线(广兰路方向), 在金科路站下车(1号口出) 步行470米至浦软大厦。乘坐出租车约69元。
+### People's Square
+	14.6 km
+	Subway Line 2 (towards to Guanglan Rd) to Jinke Rd Station, Exit 1. Walk 470 meters to Puruan building.
+	About 69 CNY by taxi.
 
-### 上海虹桥机场(二号航站楼)
-	距离会议厅约31.9公里
-	步行至 虹桥2号航站楼站 乘坐地铁2号线(广兰路方向), 在金科路站下车(1号口出)，步行470米至浦软大厦。乘坐出租车约125元。
+### Hongqiao Airport Terminal 2
+	31.9 km
+	Subway Line 2 (towards to Guanglan Rd) to Jinke Rd Station, Exit 1. Walk 470 meters to Puruan building.
+	About 125 CNY by taxi.
 
-### 上海虹桥机场(一号航站楼)
-	距离会议厅约34.7公里
-	步行至 虹桥1号航站楼站，乘坐地铁10号线(虹桥火车站方向), 在虹桥2号航站楼站下车，乘坐 地铁2号线(广兰路方向), 在金科路站下车(1号口出)，步行470米至浦软大厦。乘坐出租车约108元。
+### Hongqiao Airport Terminal 1
+	34.7 km
+	Subway line 10 (towards to Hongqiao railway station) to Hongqiao Airport Terminal 2 then take Subway Line 2 (towards to Guanglan Rd) to Jinke Rd Station, Exit 1. Walk 470 meters to Puruan building.
+	About 108 CNY by taxi.
 
-### 上海浦东国际机场
-	距离会议厅约27.8公里
-	步行至 浦东国际机场站，乘坐地铁2号线东延伸段(广兰路方向), 在广兰路站下车，乘坐 地铁2号线(徐泾东方向), 在金科路站下车(1号口出)，步行470米至浦软大厦。乘坐出租车约97元。
-	
-### 上海火车站
-	距离会议厅约18.5公里
-	乘坐 地铁4号线(宜山路)方向), 在世纪大道站下车，乘坐地铁2号线(广兰路方向), 在金科路站下车(1号口出)，步行470米至浦软大厦。乘坐出租车约75元。
+### Shanghai Pudong International Airport
+	27.8 km
+	Subway line 2 (towards to Guanglan Rd) to Guanglan station. Take Subway line 2 (towards to Xujing east) to Jinke Rd Station, Exit 1. Walk 470 meters to Puruan building.
+	About 97 CNY by taxi.
 
-### 上海火车南站
-	距离会议厅约25.8公里
-	乘坐 地铁1号线(富锦路方向), 在人民广场站下车,站内换乘地铁2号线(广兰路方向), 在金科路站下车(1号口出)，步行470米至浦软大厦。乘坐出租车约78元。
+### Shanghai Railway Station
+	18.5 km
+	Subway Line 4 (towards to Yishan Rd) to Century Avenue. Then Take Subway line 2 (towards to Xujing east) to Jinke Rd Station, Exit 1. Walk 470 meters to Puruan building.
+	About 75 CNY by taxi.
 
-### 虹桥火车站
-	距离会议厅约32.4公里
-	乘坐地铁2号线(广兰路方向), 在金科路站下车(1号口出)，步行470米至浦软大厦。乘坐出租车约127元。
+### Shanghai South Railway Station
+	25.8 km
+	Subway Line 1 (towards to Fujin Rd) to People's Square. Then take Subway Line 2 (towards to Guanglan Rd) to Jinke Rd Station, Exit 1. Walk 470 meters to Puruan building.
+	About 78 CNY by taxi.
+
+### Shanghai Hongqiao Railway Station
+	32.4 km
+	Subway Line 2 (towards to Guanglan Rd) to Jinke Rd Station, Exit 1. Walk 470 meters to Puruan building.
 
 
