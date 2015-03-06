@@ -1,6 +1,6 @@
 # 罗伯特·格瑞史莫 #
 
-![](../images/robert.png)
+![](../images/robert.jpeg)
 Go 作者之一
 
 Google
